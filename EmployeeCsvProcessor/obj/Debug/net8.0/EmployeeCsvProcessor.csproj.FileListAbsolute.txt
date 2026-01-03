@@ -1,0 +1,5 @@
+/Users/rudrakumarpandey/Pictures/MachineCode1/EmployeeCsvProcessor/obj/Debug/net8.0/EmployeeCsvProcessor.csproj.AssemblyReference.cache
+/Users/rudrakumarpandey/Pictures/MachineCode1/EmployeeCsvProcessor/obj/Debug/net8.0/EmployeeCsvProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakumarpandey/Pictures/MachineCode1/EmployeeCsvProcessor/obj/Debug/net8.0/EmployeeCsvProcessor.AssemblyInfoInputs.cache
+/Users/rudrakumarpandey/Pictures/MachineCode1/EmployeeCsvProcessor/obj/Debug/net8.0/EmployeeCsvProcessor.AssemblyInfo.cs
+/Users/rudrakumarpandey/Pictures/MachineCode1/EmployeeCsvProcessor/obj/Debug/net8.0/EmployeeCsvProcessor.csproj.CoreCompileInputs.cache
